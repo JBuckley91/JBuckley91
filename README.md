@@ -17,7 +17,7 @@
 <b>Loves:</b> anime, succulents, animals, Crtical Role, Nintendo games, anthropology, history, the beach, vintage Halloween and horror movies
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Gender:</b> she/her/female
 </li>
 <li>
 <b>Hobbys:</b> Gaming, gardening, fiber arts, tabletop RPGs, photography
